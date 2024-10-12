@@ -10,7 +10,7 @@ function M.setup(colors, config)
         normal = {
             a = {
                 bg = config.transparent and "NONE" or colors.bool,
-                fg = "White",
+                fg = "Black",
             },
             b = { bg = common_bg, fg = colors.bool },
             c = { bg = colors.line_nr, fg = colors.bracket },
