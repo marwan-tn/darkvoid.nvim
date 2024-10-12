@@ -23,7 +23,7 @@ M.config = {
 		bracket = "#e6e6e6",
 		preprocessor = "#4b8902",
 		bool = "#66b2b2",
-		constant = "#b2d8d8",
+		constant = "#ff0000",
 
 		-- gitsigns colors
 		added = "#baffc9",
