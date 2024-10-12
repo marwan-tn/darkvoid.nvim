@@ -17,13 +17,13 @@ M.config = {
 		func = "#e1e1e1",
 		kw = "#a1a1a1",
 		identifier = "#b1b1b1",
-		type = "#a1a1a1",
+		type = "#1bfd9c",
 		search_highlight = "#1bfd9c",
 		operator = "#1bfd9c",
 		bracket = "#e6e6e6",
 		preprocessor = "#4b8902",
 		bool = "#66b2b2",
-		constant = "#b2d8d8",
+		constant = "#a1a1a1",
 
 		-- gitsigns colors
 		added = "#baffc9",
