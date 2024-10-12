@@ -15,7 +15,7 @@ M.config = {
 		comment = "#585858",
 		string = "#d1d1d1",
 		func = "#e1e1e1",
-		kw = "#f1f1f1",
+		kw = "#1bfd9c",
 		identifier = "#b1b1b1",
 		type = "#a1a1a1",
 		search_highlight = "#1bfd9c",
@@ -81,7 +81,7 @@ function M.setup(user_config)
 		Boolean = { fg = colors.bool },
 		Constant = { fg = colors.constant },
 
-		Search = { fg = colors.search_highlight, bg = "NONE", gui = "bold" },
+		Search = { bg = colors.search_highlight, fg = "White", gui = "bold" },
 		IncSearch = { fg = colors.search_highlight, bg = "NONE", gui = "bold" },
 		Operator = { fg = colors.operator },
 		Delimiter = { fg = colors.bracket },
