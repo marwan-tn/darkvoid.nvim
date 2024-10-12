@@ -81,7 +81,7 @@ function M.setup(user_config)
 		Boolean = { fg = colors.bool },
 		Constant = { fg = colors.constant },
 
-		Search = { bg = colors.search_highlight, fg = "White", gui = "bold" },
+		Search = { bg = colors.search_highlight, fg = "Black", gui = "bold" },
 		IncSearch = { fg = colors.search_highlight, bg = "NONE", gui = "bold" },
 		Operator = { fg = colors.operator },
 		Delimiter = { fg = colors.bracket },
